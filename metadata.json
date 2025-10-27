@@ -1,0 +1,8 @@
+{
+  "name": "Drishti Vision AI",
+  "description": "An AI-powered assistant that provides vision and insight through text, voice, and visual analysis. Generate media, get live assistance, and explore the world with an intelligent companion.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
